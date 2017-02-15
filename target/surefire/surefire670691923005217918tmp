@@ -1,5 +1,0 @@
-#surefire
-#Tue Feb 14 16:24:51 CET 2017
-user.dir=/opt/repo/test_github
-localRepository=/home/clarive/.m2/repository
-basedir=/opt/repo/test_github
